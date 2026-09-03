@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # OSINT Username Checker 🔎
 
 A small Python project that checks whether a username can be found on public websites.
