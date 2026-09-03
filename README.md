@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OSINT Username Checker 🔎
 
 A small Python project that checks whether a username can be found on public websites.
@@ -87,10 +88,8 @@ This project is still a work in progress. I plan to add:
 
 * [x] GitHub checker
 * [x] GitLab checker
-* [ ] Twitch checker
-* [ ] Steam checker
-* [ ] Check multiple websites at once
-* [ ] Concurrent requests
+* [x] Instagram checker
+* [x] TikTok checker
 * [ ] Export results to JSON
 * [ ] Better terminal interface
 * [ ] Simple GUI
@@ -104,3 +103,7 @@ Finding the same username on different websites does **not** mean that the accou
 ## License
 
 MIT
+=======
+# osint-checker
+Python-based OSINT username checker that searches for profiles across multiple websites.
+>>>>>>> 454496ec812453cfc810d30223ea2f83221bacaa
