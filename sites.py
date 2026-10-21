@@ -20,16 +20,6 @@ sites = [
         "method": "tiktok",
     },
     {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/{username}",
-        "method": "status",
-    },
-    {
-        "name": "Pinterest",
-        "url": "https://www.pinterest.com/{username}/",
-        "method": "status",
-    },
-    {
         "name": "Codeberg",
         "url": "https://codeberg.org/{username}",
         "method": "status",
